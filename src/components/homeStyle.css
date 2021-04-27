@@ -1,0 +1,13 @@
+.header {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 5%;
+  font-family: "Vazir-Black";
+}
+.subtitle {
+  text-align: center;
+}
+
+.button {
+  height: 75px;
+}
