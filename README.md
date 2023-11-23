@@ -30,8 +30,7 @@ npm start
 
 - React
 - Formik
-- Apisuse
-- jalali-moment
+- MUI
 - ...
 
 # shopito-admin-panel
